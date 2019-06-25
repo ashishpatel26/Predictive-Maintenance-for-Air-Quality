@@ -397,7 +397,7 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![png](https://github.com/sw-ot-ashishpatel/Predictive-Maintenance-For-Air-Quality-Index-using-Sensor-Data/raw/master/Images/output_10_0.png)
 
 
 
@@ -408,7 +408,7 @@ plt.show()
 ```
 
 
-![png](output_11_0.png)
+![png](https://github.com/sw-ot-ashishpatel/Predictive-Maintenance-For-Air-Quality-Index-using-Sensor-Data/raw/master/Images/output_11_0.png)
 
 
 
@@ -419,7 +419,7 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
+![png](https://github.com/sw-ot-ashishpatel/Predictive-Maintenance-For-Air-Quality-Index-using-Sensor-Data/raw/master/Images/output_12_0.png)
 
 
 
@@ -482,7 +482,7 @@ plt.show()
 ```
 
 
-![png](output_16_0.png)
+![png](https://github.com/sw-ot-ashishpatel/Predictive-Maintenance-For-Air-Quality-Index-using-Sensor-Data/raw/master/Images/output_16_0.png)
 
 
 
